@@ -1,4 +1,0 @@
-ptyprocess
-sphinx
-sphinx-rtd-theme
-sphinxcontrib_github_alt
